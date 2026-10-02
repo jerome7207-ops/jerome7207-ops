@@ -1,0 +1,6 @@
+- 👋 Hi, I'm Jerome Allen
+- 🤖 I build AI website assistants: 24/7 chat and intake bots that answer visitor questions and book consultations, with safeguards built in
+- 🎥 I build AI video pipelines: turning a real estate listing into a finished marketing video in 24 hours
+- 🎮 I also make browser games: [Championship Chess](https://github.com/jerome7207-ops/championship-CHESS-OK) and [Jerry Arcade](https://github.com/jerome7207-ops/jerry-arcade)
+- 💼 AI tools: [CandyBabble Careers](https://candybabble-careers.vercel.app) (AI job search and resume tailoring)
+- 📫 Reach me at jw@popcornbabble.com
