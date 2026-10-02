@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Jerome Allen
+- 👋 Hi, I'm JW Allen
 - 🤖 I build AI website assistants: 24/7 chat and intake bots that answer visitor questions and book consultations, with safeguards built in
 - 🎥 I build AI video pipelines: turning a real estate listing into a finished marketing video in 24 hours
 - 🎮 I also make browser games: [Championship Chess](https://github.com/jerome7207-ops/championship-CHESS-OK) and [Jerry Arcade](https://github.com/jerome7207-ops/jerry-arcade)
